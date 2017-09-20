@@ -1,0 +1,10 @@
+R:\Ucheba\zhahist\lab1\ShifrLab1\ShifrLab1\bin\Debug\ShifrLab1.exe.config
+R:\Ucheba\zhahist\lab1\ShifrLab1\ShifrLab1\bin\Debug\ShifrLab1.exe
+R:\Ucheba\zhahist\lab1\ShifrLab1\ShifrLab1\bin\Debug\ShifrLab1.pdb
+R:\Ucheba\zhahist\lab1\ShifrLab1\ShifrLab1\obj\Debug\ShifrLab1.csprojResolveAssemblyReference.cache
+R:\Ucheba\zhahist\lab1\ShifrLab1\ShifrLab1\obj\Debug\ShifrLab1.Form1.resources
+R:\Ucheba\zhahist\lab1\ShifrLab1\ShifrLab1\obj\Debug\ShifrLab1.Properties.Resources.resources
+R:\Ucheba\zhahist\lab1\ShifrLab1\ShifrLab1\obj\Debug\ShifrLab1.csproj.GenerateResource.Cache
+R:\Ucheba\zhahist\lab1\ShifrLab1\ShifrLab1\obj\Debug\ShifrLab1.csproj.CoreCompileInputs.cache
+R:\Ucheba\zhahist\lab1\ShifrLab1\ShifrLab1\obj\Debug\ShifrLab1.exe
+R:\Ucheba\zhahist\lab1\ShifrLab1\ShifrLab1\obj\Debug\ShifrLab1.pdb
