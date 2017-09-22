@@ -50,7 +50,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(272, 20);
             this.textBox1.TabIndex = 1;
-            this.textBox1.Text = "ильин";
+            this.textBox1.Text = "иванов иван";
             // 
             // textBox2
             // 
@@ -64,9 +64,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(291, 57);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(64, 13);
+            this.label1.Size = new System.Drawing.Size(61, 13);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Слово - кот";
+            this.label1.Text = " ключ - кот";
             // 
             // Form1
             // 

@@ -57,7 +57,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(85, 20);
             this.textBox1.TabIndex = 1;
-            this.textBox1.Text = "ильин";
+            this.textBox1.Text = "иванов";
             // 
             // textBox2
             // 
