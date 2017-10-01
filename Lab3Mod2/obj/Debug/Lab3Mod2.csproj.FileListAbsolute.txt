@@ -1,0 +1,17 @@
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\bin\Debug\XOREncryptionDecryption.exe
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\bin\Debug\XOREncryptionDecryption.pdb
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\XOREncryptionDecryption.Properties.Resources.resources
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\XOREncryptionDecryption.Lab3Mod2.resources
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\Lab3Mod2.csproj.GenerateResource.Cache
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\Lab3Mod2.csproj.CoreCompileInputs.cache
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\XOREncryptionDecryption.exe
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\XOREncryptionDecryption.pdb
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3Mod2\bin\Debug\XOREncryptionDecryption.exe
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3Mod2\bin\Debug\XOREncryptionDecryption.pdb
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3Mod2\obj\Debug\Lab3Mod2.csprojResolveAssemblyReference.cache
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3Mod2\obj\Debug\XOREncryptionDecryption.Properties.Resources.resources
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3Mod2\obj\Debug\XOREncryptionDecryption.Lab3Mod2.resources
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3Mod2\obj\Debug\Lab3Mod2.csproj.GenerateResource.Cache
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3Mod2\obj\Debug\Lab3Mod2.csproj.CoreCompileInputs.cache
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3Mod2\obj\Debug\XOREncryptionDecryption.exe
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3Mod2\obj\Debug\XOREncryptionDecryption.pdb

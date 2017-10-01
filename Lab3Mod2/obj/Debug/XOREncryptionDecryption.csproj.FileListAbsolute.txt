@@ -1,0 +1,9 @@
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\bin\Debug\XOREncryptionDecryption.exe
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\bin\Debug\XOREncryptionDecryption.pdb
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\XOREncryptionDecryption.csprojResolveAssemblyReference.cache
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\XOREncryptionDecryption.Properties.Resources.resources
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\XOREncryptionDecryption.XOR.resources
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\XOREncryptionDecryption.csproj.GenerateResource.Cache
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\XOREncryptionDecryption.csproj.CoreCompileInputs.cache
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\XOREncryptionDecryption.exe
+C:\Users\max27\Desktop\Project_XOREncryptionDecryption\XOREncryptionDecryption\obj\Debug\XOREncryptionDecryption.pdb

@@ -1,0 +1,10 @@
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\The_Vigenere_Cipher.csprojResolveAssemblyReference.cache
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\The_Vigenere_Cipher.csproj.GenerateResource.Cache
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\The_Vigenere_Cipher.csproj.CoreCompileInputs.cache
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb

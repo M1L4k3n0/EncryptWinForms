@@ -1,0 +1,20 @@
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\Lab3ModN.csprojResolveAssemblyReference.cache
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\Lab3ModN.csproj.GenerateResource.Cache
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\Lab3ModN.csproj.CoreCompileInputs.cache
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\max27\Desktop\The Vigenere Cipher\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3ModN\bin\Debug\protect_inf_LR1.exe.config
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3ModN\bin\Debug\protect_inf_LR1.exe
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3ModN\bin\Debug\protect_inf_LR1.pdb
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3ModN\obj\Debug\Lab3ModN.csprojResolveAssemblyReference.cache
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3ModN\obj\Debug\protect_inf_LR1.Form1.resources
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3ModN\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3ModN\obj\Debug\Lab3ModN.csproj.GenerateResource.Cache
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3ModN\obj\Debug\Lab3ModN.csproj.CoreCompileInputs.cache
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3ModN\obj\Debug\protect_inf_LR1.exe
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab3ModN\obj\Debug\protect_inf_LR1.pdb
