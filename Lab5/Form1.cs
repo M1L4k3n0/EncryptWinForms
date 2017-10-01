@@ -29,7 +29,7 @@ namespace Lab5
             InitializeComponent();
         }
 
-             
+
 
         //проверка: простое ли число?
         private bool IsTheNumberSimple(long n)
@@ -59,7 +59,7 @@ namespace Lab5
                 int index = Array.IndexOf(characters, s[i]);
 
                 bi = new BigInteger(index);
-                bi = BigInteger.Pow(bi, (int)e);
+              //  bi = BigInteger.Pow(bi, (int)e);
 
                 BigInteger n_ = new BigInteger((int)n);
 
@@ -148,20 +148,62 @@ namespace Lab5
 
                     string output_result = "";
                     foreach (string item in result)
-                         output_result = String.Format("{0} {1}",output_result, item);
+                        output_result = String.Format("{0} {1}", output_result, item);
 
                     textBox_output.Text = output_result;
 
-                     textBox_d.Text = d.ToString();
-                     textBox_n.Text = n.ToString();
+                    textBox_d.Text = d.ToString();
+                    textBox_n.Text = n.ToString();
 
-                    
+
                 }
                 else
                     MessageBox.Show("p или q - не простые числа!");
             }
             else
                 MessageBox.Show("Введите p и q!");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+            string str1, str2;
+            Random myrandom = new Random();
+            int p = 127, g = 3, da, ca, db, cb, k;
+            ca = myrandom.Next(p);//A
+            da = fun(p, g, ca);
+
+            cb = myrandom.Next(p);//B
+            db = fun(p, g, cb);
+
+            str1 = textBox_el.Text;
+            textBox_el1.Text = "";
+            textBox_output.Text = "";
+
+            for (int i = 0; i < str1.Length; i++)
+            {
+                k = str1[i];
+                //1kadam
+                k = (k * fun(p, db, ca)) % p;
+                textBox_el1.Text = textBox_el1.Text + k.ToString() + ".";
+                //2kadam
+                k = (k * fun(p, da, p - 1 - cb)) % p;
+                textBox_output.Text = textBox_output.Text + k.ToString() + " ";
+
+            }
+
+        }
+        public int fun(int p, int a, int b)
+        {
+            int s = 1;
+            for (int i = 1; i <= b; i++)
+            {
+
+                s = (s * a) % p;
+            }
+            return s;
+        }
+       
         }
     }
 }
