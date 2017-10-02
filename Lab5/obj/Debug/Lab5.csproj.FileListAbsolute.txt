@@ -8,6 +8,3 @@ R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab5\obj\Debug\Lab5.csproj.Gene
 R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
 R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab5\obj\Debug\Lab5.exe
 R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab5\obj\Debug\Lab5.pdb
-R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab5\bin\Debug\ElGamalExt.dll
-R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab5\bin\Debug\ElGamalExt.Homomorphism.dll
-R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\Lab5\bin\Debug\BigInteger.dll
