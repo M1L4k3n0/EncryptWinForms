@@ -27,7 +27,6 @@ namespace Lab2
 
             //2
             BlochnayaOdinarnaya bl = new BlochnayaOdinarnaya();
-
             bl.SetKey(Box2key.Text);
             Box2Ans.Text = bl.Encrypt(Box2.Text);
 
@@ -45,6 +44,8 @@ namespace Lab2
 
             //7
             Box7Ans.Text = Dvoynaya.Encrypt(Box7key1.Text, Box7key2.Text, Box7.Text);
+
+            //4          Box4ans1.Text = Vertical.Encrypt(Box4.Text, Box4Key.Text);
 
 
         }

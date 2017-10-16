@@ -37,7 +37,7 @@
             this.Box3Ans = new System.Windows.Forms.TextBox();
             this.Box3 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.Box4ans = new System.Windows.Forms.TextBox();
+            this.Box4ans1 = new System.Windows.Forms.TextBox();
             this.Box4 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.Box5_1 = new System.Windows.Forms.TextBox();
@@ -70,6 +70,8 @@
             this.Box7key1 = new System.Windows.Forms.TextBox();
             this.label16 = new System.Windows.Forms.Label();
             this.Box7key2 = new System.Windows.Forms.TextBox();
+            this.label17 = new System.Windows.Forms.Label();
+            this.Box4Key = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -149,30 +151,31 @@
             this.label3.TabIndex = 6;
             this.label3.Text = "3";
             // 
-            // Box4ans
+            // Box4ans1
             // 
-            this.Box4ans.Location = new System.Drawing.Point(581, 202);
-            this.Box4ans.Multiline = true;
-            this.Box4ans.Name = "Box4ans";
-            this.Box4ans.Size = new System.Drawing.Size(307, 52);
-            this.Box4ans.TabIndex = 11;
+            this.Box4ans1.Location = new System.Drawing.Point(581, 202);
+            this.Box4ans1.Multiline = true;
+            this.Box4ans1.Name = "Box4ans1";
+            this.Box4ans1.Size = new System.Drawing.Size(307, 52);
+            this.Box4ans1.TabIndex = 11;
             // 
             // Box4
             // 
             this.Box4.Location = new System.Drawing.Point(231, 202);
             this.Box4.Multiline = true;
             this.Box4.Name = "Box4";
-            this.Box4.Size = new System.Drawing.Size(321, 52);
+            this.Box4.Size = new System.Drawing.Size(314, 26);
             this.Box4.TabIndex = 10;
+            this.Box4.Text = "ИльинМаксимВладимирович";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(13, 202);
+            this.label4.Location = new System.Drawing.Point(59, 215);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(13, 13);
+            this.label4.Size = new System.Drawing.Size(153, 13);
             this.label4.TabIndex = 9;
-            this.label4.Text = "4";
+            this.label4.Text = "Вертикальная перестановка";
             // 
             // Box5_1
             // 
@@ -436,11 +439,30 @@
             this.Box7key2.TabIndex = 41;
             this.Box7key2.Text = "котичек";
             // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Location = new System.Drawing.Point(229, 237);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(32, 13);
+            this.label17.TabIndex = 45;
+            this.label17.Text = "ключ";
+            // 
+            // Box4Key
+            // 
+            this.Box4Key.Location = new System.Drawing.Point(286, 234);
+            this.Box4Key.Name = "Box4Key";
+            this.Box4Key.Size = new System.Drawing.Size(100, 20);
+            this.Box4Key.TabIndex = 44;
+            this.Box4Key.Text = "1234567";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(900, 587);
+            this.Controls.Add(this.label17);
+            this.Controls.Add(this.Box4Key);
             this.Controls.Add(this.label16);
             this.Controls.Add(this.Box7key2);
             this.Controls.Add(this.label15);
@@ -471,7 +493,7 @@
             this.Controls.Add(this.label6);
             this.Controls.Add(this.Box5_1);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.Box4ans);
+            this.Controls.Add(this.Box4ans1);
             this.Controls.Add(this.Box4);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.Box3Ans);
@@ -501,7 +523,7 @@
         private System.Windows.Forms.TextBox Box3Ans;
         private System.Windows.Forms.TextBox Box3;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox Box4ans;
+        private System.Windows.Forms.TextBox Box4ans1;
         private System.Windows.Forms.TextBox Box4;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox Box5_1;
@@ -534,6 +556,8 @@
         private System.Windows.Forms.TextBox Box7key1;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.TextBox Box7key2;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.TextBox Box4Key;
     }
 }
 
