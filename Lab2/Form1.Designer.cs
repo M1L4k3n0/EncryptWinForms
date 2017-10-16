@@ -36,7 +36,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.Box3Ans = new System.Windows.Forms.TextBox();
             this.Box3 = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
             this.Box4ans1 = new System.Windows.Forms.TextBox();
             this.Box4 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
@@ -72,6 +71,7 @@
             this.Box7key2 = new System.Windows.Forms.TextBox();
             this.label17 = new System.Windows.Forms.Label();
             this.Box4Key = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -141,15 +141,7 @@
             this.Box3.Name = "Box3";
             this.Box3.Size = new System.Drawing.Size(321, 52);
             this.Box3.TabIndex = 7;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(13, 140);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(13, 13);
-            this.label3.TabIndex = 6;
-            this.label3.Text = "3";
+            this.Box3.Text = "Ильин_Максим";
             // 
             // Box4ans1
             // 
@@ -249,9 +241,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 552);
+            this.button1.Location = new System.Drawing.Point(12, 532);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(179, 23);
+            this.button1.Size = new System.Drawing.Size(876, 43);
             this.button1.TabIndex = 21;
             this.button1.Text = "перевести";
             this.button1.UseVisualStyleBackColor = true;
@@ -456,11 +448,21 @@
             this.Box4Key.TabIndex = 44;
             this.Box4Key.Text = "1234567";
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(77, 143);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(148, 13);
+            this.label3.TabIndex = 46;
+            this.label3.Text = "Табличная маршр перестан";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(900, 587);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.label17);
             this.Controls.Add(this.Box4Key);
             this.Controls.Add(this.label16);
@@ -498,7 +500,6 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.Box3Ans);
             this.Controls.Add(this.Box3);
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.Box2Ans);
             this.Controls.Add(this.Box2);
             this.Controls.Add(this.label2);
@@ -522,7 +523,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox Box3Ans;
         private System.Windows.Forms.TextBox Box3;
-        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox Box4ans1;
         private System.Windows.Forms.TextBox Box4;
         private System.Windows.Forms.Label label4;
@@ -558,6 +558,7 @@
         private System.Windows.Forms.TextBox Box7key2;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.TextBox Box4Key;
+        private System.Windows.Forms.Label label3;
     }
 }
 
