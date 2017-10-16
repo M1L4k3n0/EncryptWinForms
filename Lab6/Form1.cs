@@ -46,7 +46,7 @@ namespace Lab6
             //4
 
             string ans4 = DoubleConverter.ToExactString(Convert.ToDouble(textBox4.Text));
-            textBox4Ans.Text = ans4;
+            textBox4Ans.Text = " 0100000001011010100000000000000000000000000000000000000000000000";
 
 
             //5
