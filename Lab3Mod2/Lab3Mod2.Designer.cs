@@ -35,6 +35,7 @@ namespace XOREncryptionDecryption
             this.label3 = new System.Windows.Forms.Label();
             this.ResultTextBox = new System.Windows.Forms.TextBox();
             this.Encrypt = new System.Windows.Forms.Button();
+            this.ConsoleBox = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // KeyTextBox
@@ -101,13 +102,13 @@ namespace XOREncryptionDecryption
             this.ResultTextBox.Multiline = true;
             this.ResultTextBox.Name = "ResultTextBox";
             this.ResultTextBox.ReadOnly = true;
-            this.ResultTextBox.Size = new System.Drawing.Size(224, 59);
+            this.ResultTextBox.Size = new System.Drawing.Size(224, 20);
             this.ResultTextBox.TabIndex = 4;
             // 
             // Encrypt
             // 
             this.Encrypt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.Encrypt.Location = new System.Drawing.Point(96, 139);
+            this.Encrypt.Location = new System.Drawing.Point(245, 109);
             this.Encrypt.Name = "Encrypt";
             this.Encrypt.Size = new System.Drawing.Size(75, 23);
             this.Encrypt.TabIndex = 6;
@@ -115,11 +116,25 @@ namespace XOREncryptionDecryption
             this.Encrypt.UseVisualStyleBackColor = true;
             this.Encrypt.Click += new System.EventHandler(this.Encrypt_Click);
             // 
+            // ConsoleBox
+            // 
+            this.ConsoleBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.ConsoleBox.BackColor = System.Drawing.SystemColors.Window;
+            this.ConsoleBox.Location = new System.Drawing.Point(347, 17);
+            this.ConsoleBox.Multiline = true;
+            this.ConsoleBox.Name = "ConsoleBox";
+            this.ConsoleBox.ReadOnly = true;
+            this.ConsoleBox.Size = new System.Drawing.Size(393, 235);
+            this.ConsoleBox.TabIndex = 7;
+            // 
             // Lab3Mod2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(531, 264);
+            this.ClientSize = new System.Drawing.Size(764, 264);
+            this.Controls.Add(this.ConsoleBox);
             this.Controls.Add(this.Encrypt);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.ResultTextBox);
@@ -129,7 +144,7 @@ namespace XOREncryptionDecryption
             this.Controls.Add(this.KeyTextBox);
             this.MinimumSize = new System.Drawing.Size(547, 300);
             this.Name = "Lab3Mod2";
-            this.Text = "Lab3Mod2";
+            this.Text = "По модулю 2";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -144,6 +159,7 @@ namespace XOREncryptionDecryption
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox ResultTextBox;
         private System.Windows.Forms.Button Encrypt;
+        private System.Windows.Forms.TextBox ConsoleBox;
     }
 }
 

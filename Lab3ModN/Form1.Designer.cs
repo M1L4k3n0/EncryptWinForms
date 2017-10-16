@@ -35,11 +35,12 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.ConsoleBox = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // buttonEncrypt
             // 
-            this.buttonEncrypt.Location = new System.Drawing.Point(119, 143);
+            this.buttonEncrypt.Location = new System.Drawing.Point(194, 124);
             this.buttonEncrypt.Name = "buttonEncrypt";
             this.buttonEncrypt.Size = new System.Drawing.Size(95, 23);
             this.buttonEncrypt.TabIndex = 1;
@@ -50,7 +51,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(45, 23);
+            this.label1.Location = new System.Drawing.Point(12, 16);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(93, 13);
             this.label1.TabIndex = 3;
@@ -58,7 +59,7 @@
             // 
             // textBoxKeyWord
             // 
-            this.textBoxKeyWord.Location = new System.Drawing.Point(159, 20);
+            this.textBoxKeyWord.Location = new System.Drawing.Point(126, 13);
             this.textBoxKeyWord.Name = "textBoxKeyWord";
             this.textBoxKeyWord.Size = new System.Drawing.Size(163, 20);
             this.textBoxKeyWord.TabIndex = 4;
@@ -66,16 +67,15 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(159, 57);
+            this.textBox1.Location = new System.Drawing.Point(126, 50);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(163, 20);
             this.textBox1.TabIndex = 5;
             this.textBox1.Text = "ильин";
-          
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(159, 96);
+            this.textBox2.Location = new System.Drawing.Point(126, 89);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(163, 20);
             this.textBox2.TabIndex = 6;
@@ -83,7 +83,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(106, 60);
+            this.label2.Location = new System.Drawing.Point(73, 53);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(32, 13);
             this.label2.TabIndex = 7;
@@ -92,17 +92,27 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(106, 99);
+            this.label3.Location = new System.Drawing.Point(73, 92);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(40, 13);
             this.label3.TabIndex = 8;
             this.label3.Text = "Вывод";
             // 
+            // ConsoleBox
+            // 
+            this.ConsoleBox.Location = new System.Drawing.Point(295, 13);
+            this.ConsoleBox.Multiline = true;
+            this.ConsoleBox.Name = "ConsoleBox";
+            this.ConsoleBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.ConsoleBox.Size = new System.Drawing.Size(398, 293);
+            this.ConsoleBox.TabIndex = 9;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(394, 201);
+            this.ClientSize = new System.Drawing.Size(705, 318);
+            this.Controls.Add(this.ConsoleBox);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox2);
@@ -125,6 +135,7 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox ConsoleBox;
     }
 }
 

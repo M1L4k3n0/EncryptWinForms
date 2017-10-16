@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleRedirection;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,10 +14,13 @@ namespace protect_inf_LR1
 {
     public partial class Form1 : Form
     {
+        TextWriter _writer = null;
         public Form1()
         {
             InitializeComponent();
-
+            _writer = new TextBoxStreamWriter(ConsoleBox);
+            // Redirect the out Console stream
+            Console.SetOut(_writer);
             N = characters.Length;
         }
 
@@ -141,9 +145,20 @@ namespace protect_inf_LR1
                 {
                     for (int id = 0; id < alf.Length; id++)
                     {
-                        if (key[i] == alf[id]) k = id;
-                        if (source[i] == alf[id]) x = id;
+                        if (key[i] == alf[id])
+                        {
+                            k = id;
+
+                        }
+                        if (source[i] == alf[id])
+                        {
+                            x = id;
+
+                        }
                         z = (x + k) % alf.Length;
+                            Console.Write(String.Format("{0}={1}  ", z, alf[z]));                      
+                       
+                       
                     }
                     res += alf[z];
                 }
@@ -166,6 +181,7 @@ namespace protect_inf_LR1
                         if (key[i] == alf[id]) k = id;
                         if (source[i] == alf[id]) x = id;
                         z = ((source[i] - key[i]) + alf.Length) % alf.Length;
+                      
                     }
                     res += alf[z];
                 }
