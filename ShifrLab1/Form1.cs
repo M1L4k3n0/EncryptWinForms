@@ -189,6 +189,11 @@ namespace ShifrLab1
             name = Vigener.Encode(temp, "КОТ");
             textBox2.Text = name;
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
       
 

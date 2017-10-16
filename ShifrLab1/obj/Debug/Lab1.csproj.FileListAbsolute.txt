@@ -7,3 +7,4 @@ R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\ShifrLab1\obj\Debug\Lab1.csproj
 R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\ShifrLab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
 R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\ShifrLab1\obj\Debug\ShifrLab1.exe
 R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\ShifrLab1\obj\Debug\ShifrLab1.pdb
+R:\Ucheba\zhahist\lab1\ShifrLab1\EncryptWinForms\ShifrLab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
